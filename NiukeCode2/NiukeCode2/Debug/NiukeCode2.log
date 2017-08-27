@@ -1,0 +1,20 @@
+﻿  Solution.cpp
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\head.h(18): warning C4005: “INT_MIN”: 宏重定义
+  d:\study software\microsoft visual studio 14.0\vc\include\limits.h(34): note: 参见“INT_MIN”的前一个定义
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\head.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“seqqueue”的左侧
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\solution.cpp(6): warning C4018: “<=”: 有符号/无符号不匹配
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\solution.cpp(113): warning C4018: “<”: 有符号/无符号不匹配
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\solution.cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\solution.cpp(120): warning C4018: “<”: 有符号/无符号不匹配
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\solution.cpp(179): warning C4018: “<”: 有符号/无符号不匹配
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\solution.cpp(269): warning C4018: “<”: 有符号/无符号不匹配
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\solution.cpp(623): warning C4018: “<”: 有符号/无符号不匹配
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\solution.cpp(635): warning C4018: “<”: 有符号/无符号不匹配
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\solution.cpp(676): warning C4018: “<”: 有符号/无符号不匹配
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\solution.cpp(681): warning C4018: “<”: 有符号/无符号不匹配
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\solution.cpp(792): warning C4018: “<”: 有符号/无符号不匹配
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\solution.cpp(103): warning C4715: “sortMethods”: 不是所有的控件路径都返回值
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\solution.cpp(597): warning C4715: “ReverseList”: 不是所有的控件路径都返回值
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\solution.cpp(773): warning C4715: “Fibonacci”: 不是所有的控件路径都返回值
+d:\study files\documents\visual studio 2012\niukecode2\niukecode2\solution.cpp(826): warning C4715: “Solution::minNumberInRotateArray”: 不是所有的控件路径都返回值
+  NiukeCode2.vcxproj -> D:\Study Files\documents\visual studio 2012\NiukeCode2\Debug\NiukeCode2.exe
